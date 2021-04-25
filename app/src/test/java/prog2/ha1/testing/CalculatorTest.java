@@ -69,7 +69,7 @@ class CalculatorTest {
     }
 
     @Test
-    @DisplayName("should display result after Division two positive numbers")
+    @DisplayName("should display result after pressing two time the negativeKey  of positive numbers")
     void testPressNegativeKey() {
         Calculator calc = new Calculator();
 
